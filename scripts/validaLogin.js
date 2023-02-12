@@ -1,5 +1,5 @@
 const username = "admin";
-const password = "frigorifico";
+const password = "admin";
 
 function validateUser(user, pass) {
     if (user === username && pass === password) {
