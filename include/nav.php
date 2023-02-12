@@ -1,3 +1,6 @@
+<?php
+    require_once '../frigorifico/include/estilos.php';
+    ?>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="#"><img src="../frigorifico/images/boi.png"/></a>
@@ -19,6 +22,7 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="insere.php">Insere dados</a></li>
                   <li><a class="dropdown-item" href="atualiza.php">Atualiza Dados</a></li>
+                  <li><a class="dropdown-item" href="lista.php">Lista os Dados</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="exclui.php">Exclui dados</a></li>
                 </ul>

@@ -13,49 +13,6 @@
     <?php include 'include/nav.php'; ?>
 
     
-    <div class="tabela">
-
-        <table class="table">
-            <tr>
-                <th>Codigo do Boi</th>
-                <th>Valor pago por kg</th>
-                <th>Peso do boi</th>
-                <th>Valor pós triagem</th>
-                <th>Lucro por animal</th>
-            </tr>
-            <tr>
-                <td>001</td>
-                <td>11,00</td>
-                <td>1500</td>
-                <td>33.000,00</td>
-                <td>50%</td>
-            </tr>
-            </tr>
-            <tr>
-                <td>002</td>
-                <td>12,00</td>
-                <td>1400</td>
-                <td>32.000,00</td>
-                <td>40%</td>
-            </tr>
-            </tr>
-            <tr>
-                <td>003</td>
-                <td>11,00</td>
-                <td>1600</td>
-                <td>35.000,00</td>
-                <td>60%</td>
-            </tr>
-            </tr>
-            <tr>
-                <td>004</td>
-                <td>10,00</td>
-                <td>2000</td>
-                <td>40.000,00</td>
-                <td>20%</td>
-            </tr>
-        </table>
-    </div>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
